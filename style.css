@@ -1,0 +1,30 @@
+body
+{
+    font-family: cursive;
+    background-color: greenyellow;
+}
+
+#score
+{
+    margin-left: 45px;
+    float: left;
+    font-size: 27px;
+}
+
+#timer
+{
+    margin-right: 79px;
+    float: right;
+    font-size: 27px;
+}
+
+#sketch_to_drawn
+{
+   color: red;
+   font-size: 25px;
+}
+
+h1
+{
+    background-color: white;
+}
